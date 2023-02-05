@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: hello world!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+##About me!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I am a Ph.D. candidate in neuroscience at Brown University. I work in the laboratory of Dr. Ashley Webb, and my research focuses on understanding the cellular and molecular changes that happen in the aging hypothalamus. I am broadly interested in genomics, aging, the hypothalamus, and the power of _in vitro_ models to unlock the mysteries of the aging brain.
