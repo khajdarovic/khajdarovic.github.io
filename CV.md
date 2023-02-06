@@ -5,46 +5,47 @@ permalink: /CV/
 ---
 
 ### Kaitlyn Hajrije Hajdarovic
-#### Department of Neuroscience
-#### Brown University
-#### Providence, RI
-#### Email: Kaitlyn_hajdarovic@brown.edu
+Department of Neuroscience
+Brown University
+Providence, RI
+Email: Kaitlyn_hajdarovic@brown.edu
 
 ----
 ****
 
-## EDUCATION
+### EDUCATION
 
-- 2016-2023  
-	Brown University, Providence, RI  
+-  Brown University, Providence, RI  
 	Ph.D., Neuroscience  
 	Advisor: Dr. Ashley Webb  
+	2016-2023 
 
-- 2010-2014		Dickinson College, Carlisle, PA
-			B.Sc., Neuroscience
-
-
-----
-****
-
-## PEER-REVIEWED PUBLICATIONS
-
-Hajdarovic, K.H., Yu, D., Webb, A.E. Understanding the aging hypothalamus, one cell at a time. Trends Neurosci (2022) In press.
-
-Hajdarovic, K.H., Yu, D., Hassell, LA. Evans, S.A., Packer, S., Neretti, N., Webb, A.E. Single-cell analysis of the aging female mouse hypothalamus. Nat Aging (2022). https://doi.org/10.1038. 
-
-Yanagi, K.S., Wu, Z., Amaya, J. Chapkis, N., Duffy, A.M., Hajdarovic, K.H., Held, A., Mathur, A.D., Russo, K., Ryan, V.H., Steinert, B.L., Whitt, J.P., Fallon, J.R., Fawzi, N.L., Lipscombe, D., Reenan, R.A., Wharton, K. A., and Hart, A.C. Meta -analysis of Genetic Modifiers Reveals Candidate Dysregulated Pathways in Amyotrophic Lateral Sclerosis. 2019. Neuroscience. 
-
-Cole, D.C., Chung, Y., Gagnidze, K., Hajdarovic, K.H., Rayon-Estrada, V., Harjanto, D., Bigio, B., Gal-Toth, J., Milner, T.A., McEwen, B.S., Papavasiliou, F.N., and Bulloch, K. Loss of APOBEC1 RNA-editing function in microglia exacerbates age-related CNS pathophysiology. PNAS. 2017. 114 (50) 13272-13277
-
-Gagnidze, K., Hajdarovic, K.H., Moskalenko, M., Karatsoreos, I.N., McEwen, B.S., and Bulloch, K. Nuclear receptor REV-ERBα mediates circadian sensitivity to mortality in murine vesicular stomatitis virus-induced encephalitis. PNAS. 2016. 113 (20) 5730-5735.
-
-F. Nina Papavasiliou, F.N., Chung, Y., Gagnidze, K., Hajdarovic, K.H., Cole, D.C., Bulloch, K. Epigenetic Modulators of Monocytic Function: Implication for Steady State and Disease in the CNS. Front. immunol. 2016.
+- Dickinson College, Carlisle, PA  
+	B.Sc., Neuroscience  
+	2010-2014  
 
 ----
 ****
 
-##RESEARCH EXPERIENCE
+### PEER-REVIEWED PUBLICATIONS
+
+- Hajdarovic, K.H., Yu, D., Webb, A.E. Understanding the aging hypothalamus, one cell at a time. Trends Neurosci (2022). 
+DOI:https://doi.org/10.1016/j.tins.2022.10.004.  
+
+- Hajdarovic, K.H., Yu, D., Hassell, LA. Evans, S.A., Packer, S., Neretti, N., Webb, A.E. Single-cell analysis of the aging female mouse hypothalamus. Nat Aging (2022). https://doi.org/10.1038.  
+
+- Yanagi, K.S., Wu, Z., Amaya, J. Chapkis, N., Duffy, A.M., Hajdarovic, K.H., Held, A., Mathur, A.D., Russo, K., Ryan, V.H., Steinert, B.L., Whitt, J.P., Fallon, J.R., Fawzi, N.L., Lipscombe, D., Reenan, R.A., Wharton, K. A., and Hart, A.C. Meta -analysis of Genetic Modifiers Reveals Candidate Dysregulated Pathways in Amyotrophic Lateral Sclerosis. 2019. Neuroscience.  
+
+- Cole, D.C., Chung, Y., Gagnidze, K., Hajdarovic, K.H., Rayon-Estrada, V., Harjanto, D., Bigio, B., Gal-Toth, J., Milner, T.A., McEwen, B.S., Papavasiliou, F.N., and Bulloch, K. Loss of APOBEC1 RNA-editing function in microglia exacerbates age-related CNS pathophysiology. PNAS. 2017. 114 (50) 13272-13277  
+
+- Gagnidze, K., Hajdarovic, K.H., Moskalenko, M., Karatsoreos, I.N., McEwen, B.S., and Bulloch, K. Nuclear receptor REV-ERBα mediates circadian sensitivity to mortality in murine vesicular stomatitis virus-induced encephalitis. PNAS. 2016. 113 (20) 5730-5735.  
+
+- F. Nina Papavasiliou, F.N., Chung, Y., Gagnidze, K., Hajdarovic, K.H., Cole, D.C., Bulloch, K. Epigenetic Modulators of Monocytic Function: Implication for Steady State and Disease in the CNS. Front. immunol. 2016.  
+
+----
+****
+
+###RESEARCH EXPERIENCE
 
 2017-Present		Ph.D. Candidate
 			Laboratory of Dr. Ashley Webb, Brown University
