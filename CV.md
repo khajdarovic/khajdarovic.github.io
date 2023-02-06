@@ -1,19 +1,14 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /CV/
 ---
 
-##Curriculum Vitae
-
-----
-****
-
-##Kaitlyn Hajrije Hajdarovic
-###Department of Neuroscience
-###Brown University
-###Providence, RI
-###Email: Kaitlyn_hajdarovic@brown.edu
+## Kaitlyn Hajrije Hajdarovic
+### Department of Neuroscience
+### Brown University
+### Providence, RI
+### Email: Kaitlyn_hajdarovic@brown.edu
 
 ----
 ****
