@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Publications
+title: Select Publications
 permalink: /Publications/
 ---
 
-##Selected Publications
 
 [Single-cell analysis of the aging female mouse hypothalamus](https://www.nature.com/articles/s43587-022-00246-4)
 
