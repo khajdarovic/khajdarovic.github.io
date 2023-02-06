@@ -4,29 +4,30 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-## Kaitlyn Hajrije Hajdarovic
-### Department of Neuroscience
-### Brown University
-### Providence, RI
-### Email: Kaitlyn_hajdarovic@brown.edu
+### Kaitlyn Hajrije Hajdarovic
+#### Department of Neuroscience
+#### Brown University
+#### Providence, RI
+#### Email: Kaitlyn_hajdarovic@brown.edu
 
 ----
 ****
 
-##EDUCATION
+## EDUCATION
 
-2016-2023		Brown University, Providence, RI
-			Ph.D., Neuroscience
-			Advisor: Dr. Ashley Webb
+- 2016-2023  
+	Brown University, Providence, RI  
+	Ph.D., Neuroscience  
+	Advisor: Dr. Ashley Webb  
 
-2010-2014		Dickinson College, Carlisle, PA
+- 2010-2014		Dickinson College, Carlisle, PA
 			B.Sc., Neuroscience
 
 
 ----
 ****
 
-##PEER-REVIEWED PUBLICATIONS
+## PEER-REVIEWED PUBLICATIONS
 
 Hajdarovic, K.H., Yu, D., Webb, A.E. Understanding the aging hypothalamus, one cell at a time. Trends Neurosci (2022) In press.
 
