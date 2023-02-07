@@ -120,7 +120,7 @@ Instructors: Dr. Michael A. Paradiso and Dr. John J. Stein
 ----
 ****
 
-#### Academic Service
+### Academic Service
 - Brown Brain Bee volunteer (2016) 
 - Brain Week RI: Social media coordinator, K-12 school visit presenter (2017)  
 - Presenter at Brown Brain Fair (2017)  
