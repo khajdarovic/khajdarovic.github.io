@@ -9,5 +9,5 @@ I am a Ph.D. candidate in neuroscience at Brown University. I work in the labora
 
 
 
-  {% include youtube.html id=page. 5ZRjYwUjBZ0 
+ {% include youtube.html id=page. 5ZRjYwUjBZ0 %}  
 
