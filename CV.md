@@ -21,7 +21,7 @@ Email: Kaitlyn_hajdarovic @ brown.edu
 	2016-2023 (expected)
 
 - Dickinson College, Carlisle, PA  
-	B.Sc., Neuroscience  
+	B.S., Neuroscience  
 	2010-2014  
 
 ----
@@ -64,14 +64,14 @@ DOI:https://doi.org/10.1016/j.tins.2022.10.004.
 
 
 - Research Assistant (2014-2016)  
-	Principle Investigator: Dr. Karen Bulloch, Rockefeller University  
+	Laboratory of Dr. Karen Bulloch, Rockefeller University  
 	- Examined the circadian modulation of neuroimmunity using flow cytometry, RT-PCR, and survival studies.  	
 	- Engaged in inter-laboratory collaboration investigating the role of RNA editing enzyme APOBEC1 and its role in neuroimmunity and neurodegeneration.  
 	- Designed and implemented a project which analyzed the sexually dimorphic response to vesicular stomatitis virus- induced encephalitis.  
 	
 
 - Undergraduate Research Assistant (2013-2014)  
-		Advisor: Dr. Patricia Reeder, Dickinson College  
+	Laboratory of Dr. Patricia Reeder, Dickinson College  
 	- Earned CITI certification to conduct research with human participants  
 	- Executed psycholinguistics studies concerning pattern identification and language learning abilities in college-aged participants.  
 	- Developed and implemented an IRB approved protocol for an independent research project on the effect of cognitive load on pragmatic processing.
@@ -79,13 +79,13 @@ DOI:https://doi.org/10.1016/j.tins.2022.10.004.
 
 
 - Student Researcher (Summer 2013)  
-	Primary Investigator: Dr. Louise McCullough, University of Connecticut  
+	Laboratory of Dr. Louise McCullough, University of Connecticut  
 	- Utilized Four Core Genome mice to further understand the role of chromosomal and hormonal sex differences in stroke outcomes.  
 	- Gained proficiency in genotyping, histology and harvesting tissue via perfusion.  
 	
 
 - Student Researcher (Spring 2013)  
- 	Primary Investigator Dr. Richard Lewis, University of Queensland  
+ 	Laboratory of Dr. Richard Lewis, University of Queensland  
 	- Applied for and was awarded competitive research traineeship during my semester abroad.   
 	- Investigated mutating acetylcholine binding protein to mimic the pharmacology of nicotinic acetylcholine receptor subtype α4β2, to be used as a high throughput screen for cone snail toxins.  
 	
