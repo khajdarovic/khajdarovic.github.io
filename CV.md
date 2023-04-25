@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-### Kaitlyn Hajrije Hajdarovic
+### Kaitlyn Hajrije Hajdarovic, Ph.D.
 Department of Neuroscience  
 Brown University  
 Providence, RI  
@@ -18,7 +18,7 @@ Email: Kaitlyn_hajdarovic @ brown.edu
 -  Brown University, Providence, RI  
 	Ph.D., Neuroscience  
 	Advisor: Dr. Ashley Webb  
-	2016-2023 (expected)
+	2016-2023
 
 - Dickinson College, Carlisle, PA  
 	B.S., Neuroscience  
