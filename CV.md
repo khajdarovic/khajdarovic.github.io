@@ -5,9 +5,9 @@ permalink: /CV/
 ---
 
 ### Kaitlyn Hajrije Hajdarovic, Ph.D.
-The Buck Institute for Research on Aging
-Novato, CA
-Email: Khajdarovic @ buckinstitute . org
+The Buck Institute for Research on Aging 
+Novato, CA 
+Email: Khajdarovic @ buckinstitute . org 
 
 ----
 ****
