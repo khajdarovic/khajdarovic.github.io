@@ -5,10 +5,9 @@ permalink: /CV/
 ---
 
 ### Kaitlyn Hajrije Hajdarovic, Ph.D.
-Department of Neuroscience  
-Brown University  
-Providence, RI  
-Email: Kaitlyn_hajdarovic @ brown.edu
+The Buck Institute for Research on Aging
+Novato, CA
+Email: Khajdarovic @ buckinstitute . org
 
 ----
 ****
@@ -29,6 +28,8 @@ Email: Kaitlyn_hajdarovic @ brown.edu
 
 ### Peer-reviewed publications
 
+- Yu D., Li, M., Linghu, G., Hu, Y., **Hajdarovic, K.H.**, Wang, A., Singh, R., Webb, A.E. CellBiAge: Improved single-cell age classification using data binarization. Cell Rep. 29;42(12):113500 (2023).
+
 - **Hajdarovic, K.H.**, Yu, D., Webb, A.E. Understanding the aging hypothalamus, one cell at a time. Trends Neurosci (2022). 
 DOI:https://doi.org/10.1016/j.tins.2022.10.004.  
 
@@ -47,6 +48,12 @@ DOI:https://doi.org/10.1016/j.tins.2022.10.004.
 
 ### Research Experience
 
+- Postdoctoral Associate (2023-Present)
+	Laboratory of Dr. Ashley Webb, The Buck Institute for Research on Aging
+	- Developing CRISPR activation screen for novel regulators of hypothalamic neuronal cell type identity
+	- Implementing CHIP-seq of young and aged female hypothalamus to identify epigenetic changes in X chromosome activation with age
+
+
 - Ph.D. Candidate (2017-Present)  
 	Laboratory of Dr. Ashley Webb, Brown University  
 	Thesis: "Novel approaches to study hypothalamic aging."  
@@ -55,8 +62,6 @@ DOI:https://doi.org/10.1016/j.tins.2022.10.004.
 	- Used CRISPR activation to screen for transcriptional regulators of hypothalamic cell type identity.  
 
 	
-
-
 - Additional Graduate Research (2016-2017)  
 	- Rotation, Bath laboratory: Early life stress and contextual fear conditioning  
 	- Rotation, Hart Laboratory: Modeling ALS in C. elegans  
@@ -105,11 +110,14 @@ Graduate Mentor, Webb Laboratory, Brown University
 - Undergraduate Trainees  
 	1. Roshini Kalagara (Class of 2019)  
 	2. David Suarez (Class of 2021)  
-	3. Sarah Packer (Spring 2021- Present)  
+	3. Sarah Packer (Spring 2021- Present)
+
 - Graduate Rotation Students  
 	1. Anne-Mary Salib (Fall 2019)  
 	2. Doudou Yu (Summer 2020, remotely)  
-	3. Nell Klimpert (Fall, 2021)  
+	3. Nell Klimpert (Fall, 2021)
+	4. Misaki Belser (Fall 2023)
+
 - Post-Baccalaureate Research Education Program  
 	1. Steve Otero (2021-2022)  
 
@@ -134,6 +142,8 @@ Instructors: Dr. Michael A. Paradiso and Dr. John J. Stein
 
 ### External Presentations
 
+- Poster (2023). Hajdarovic, K.H., Hassell, L-A, Packer, S., Webb A.E. Toward a model of the aged hypothalamus in a dish. Bay Area Aging Meeting. Palo Alto, CA.
+  
 - Presentation (2022). Hajdarovic, K.H., Yu, D., Hassell, L-A, Packer, S., Evans, S., Neretti, N.,
 Webb A.E. Single cell analysis of the aging female hypothalamus. 6th Annual Northeast Glenn Symposium. New Haven, CT. 
 
