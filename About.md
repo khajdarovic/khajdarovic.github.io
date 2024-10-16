@@ -4,8 +4,7 @@ title: About me!
 permalink: /About/
 ---
 
-I am currently a postdoctoral research fellow in the Webb Laboratory at the Buck Institute for Research on Aging. I received my PhD in Neuroscience from Brown Univeristy in 2023, and my thesis focused on understanding the cellular and molecular changes that happen in the aging hypothalamus. I am broadly interested in genomics, aging, the hypothalamus, and the power of in vitro models to unlock the mysteries of the aging brain.      
-
+I am a postdoctoral fellow in the laboratory of Dr. Sushil Rane at the National Institute of Diabetes and Digestive and Kidney Diseases. I received my PhD in Neuroscience from Brown Univeristy in 2023, and my thesis focused on understanding the cellular and molecular changes that happen in the aging hypothalamus. I am broadly interested in how the hypothalamus coordinates energy homeostasis and how this differs between sexes and across the lifespan.
 
 ***
 
