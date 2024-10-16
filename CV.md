@@ -5,8 +5,8 @@ permalink: /CV/
 ---
 
 ### Kaitlyn Hajrije Hajdarovic, Ph.D.
-The Buck Institute for Research on Aging  
-Novato, CA  
+National Institute of Diabetes and Digestive and Kidney Diseases
+Bethesda, MD  
 Email: Khajdarovic @ buckinstitute . org  
 
 ----
@@ -48,13 +48,17 @@ DOI:https://doi.org/10.1016/j.tins.2022.10.004.
 
 ### Research Experience
 
-- Postdoctoral Associate (2023-Present)
+- Postdoctoral Fellow (2024-Present)
+	Laboratory of Dr. Sushil Rane, NIDDK
+	
+
+- Postdoctoral Associate (2023-2024)
 	Laboratory of Dr. Ashley Webb, The Buck Institute for Research on Aging
-	- Developing CRISPR activation screen for novel regulators of hypothalamic neuronal cell type identity
-	- Implementing CHIP-seq of young and aged female hypothalamus to identify epigenetic changes in X chromosome activation with age
+	- Developed CRISPR activation screen for novel regulators of hypothalamic neuronal cell type identity
+	- Implemented CHIP-seq of young and aged female hypothalamus to identify epigenetic changes in X chromosome activation with age
 
 
-- Ph.D. Candidate (2017-Present)  
+- Ph.D. Candidate (2017-2023)  
 	Laboratory of Dr. Ashley Webb, Brown University  
 	Thesis: "Novel approaches to study hypothalamic aging."  
 	- Employed single nuclei RNAseq and other genomics approaches to discover a novel feature of female hypothalamic aging.  
